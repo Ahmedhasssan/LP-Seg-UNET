@@ -1,5 +1,5 @@
 # LP-Seg-UNET
-Image Segmentation Architecture
+Image Segmentation Architecture with exact object area estimation.
 ## Requirements
 GPUs: 1
 Pytorch Version: 9.0.1
